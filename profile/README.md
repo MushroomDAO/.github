@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+🙋‍♀️ A short introduction: MushroomDAO is a DAO organization on the way, include a DAO with a business company(HyperCapital) and some sub-communities: AAStar, AuraAI and you.
+🌈 Contribution guidelines: all opensource repo are welcome contributions, fork and submit your PR pls.
+👩‍💻 Useful resources: read [https://mushroom.box](https://mushroom.box) to get more information.
+🍿 Fun facts: we just want to learn something from Mycelium, acient species in the world.
 <!--
 
 **Here are some ideas to get you started:**
